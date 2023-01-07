@@ -1,8 +1,8 @@
 # Topics
 
 ```
-1. Vertical Scaling vs Horizontal Scaling
-2. Database Replication
+1. [Vertical Scaling vs Horizontal Scaling](./horizontal-scaling-vs-veritical-scaling.md) 
+2. [Database Replication](./database-replication.md)
 3. Cache 
 4. Content Delivery Network
 5. Stateful Architecture
