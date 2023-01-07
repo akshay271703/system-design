@@ -8,7 +8,7 @@
 
 [4. Content Delivery Network](/cdn.md)
 
-[5. Stateful & Stateless Architecture](/state-architecture.md)
+[5. Stateless Web tier](/state-web-tier.md)
 
 [6. Message Queue](/message-queue.md)
 
