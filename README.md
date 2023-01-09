@@ -12,3 +12,4 @@
 | 5           | Stateful & Stateless Web Tier          | [READ](/how-to-scale-systems/topic-5.md) 
 | 6           | Message Queue, Logging, Metrics        | [READ](/how-to-scale-systems/topic-6.md) 
 | 7           | Database Scaling                       | [READ](/how-to-scale-systems/topic-7.md)
+| 8           | Summary                                | [READ](/how-to-scale-systems/summary.md)
