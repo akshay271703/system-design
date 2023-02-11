@@ -17,7 +17,7 @@
 ## Rate Limiter
 
 
-| S.No | Topic | Link to doc
-| ----------- | ----------- | ---------- |
-| 1           | Introduction                  | [READ](/rate-limiter/README.md) 
-| 2           | Token Bucket Algorithm        | [READ](/rate-limiter/token-bucket/README.md)  
+| S.No | Topic | Link to doc | Code
+| ----------- | ----------- | ---------- | ---------------------------------------------------- |
+| 1           | Introduction                  | [READ](/rate-limiter/README.md)                 | NONE
+| 2           | Token Bucket Algorithm        | [READ](/rate-limiter/token-bucket/README.md)    | [CODE](/rate-limiter/token-bucket/index.js)
