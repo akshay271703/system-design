@@ -13,3 +13,11 @@
 | 6           | Message Queue, Logging, Metrics        | [READ](/how-to-scale-systems/topic-6.md) 
 | 7           | Database Scaling                       | [READ](/how-to-scale-systems/topic-7.md)
 | 8           | Summary                                | [READ](/how-to-scale-systems/summary.md)
+
+## Rate Limiter
+
+
+| S.No | Topic | Link to doc
+| ----------- | ----------- | ---------- |
+| 1           | Introduction                  | [READ](/rate-limiter/README.md) 
+| 2           | Token Bucket Algorithm        | [READ](/rate-limiter/token-bucket/README.md)  
